@@ -73,7 +73,7 @@ The data may never be made available to the public, and its access must be secur
 
 ## Your rights
 
-You may request a copy or the deletion of your personal data held by the application by contacting the application owners. The recommended way is sending an email to "TangleDex (at) reichtangle (dot) gmail (dot) com ". You may find other means of contact [here](https://gist.github.com/laggron42/52ae099c55c6ee1320a260b0a3ecac4e#contact).
+You may request a copy or the deletion of your personal data held by the application by contacting the application owners. The recommended way is sending an email to "TangleDex (at) reichtangle (dot) gmail (dot) com ".
 
 ----
 
