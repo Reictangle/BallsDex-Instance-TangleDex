@@ -77,4 +77,4 @@ You may request a copy or the deletion of your personal data held by the applica
 
 ----
 
-Last updated 9th October 2022
+Last updated 28th of June, 2024. 
